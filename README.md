@@ -1,4 +1,5 @@
 🎬 Movie Review Sentiment Analysis (IMDB)
+
 📌 Project Overview
 
 This project focuses on building an end-to-end Sentiment Analysis system that classifies movie reviews as Positive or Negative using Natural Language Processing (NLP) and Machine Learning techniques.
@@ -88,6 +89,7 @@ Streamlit
 Matplotlib, Seaborn
 
 🚀 How to Run the Project
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/movie-review-sentiment-analysis.git
 cd movie-review-sentiment-analysis
